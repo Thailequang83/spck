@@ -1,0 +1,118 @@
+#navbar li {
+    
+    display: inline-block;
+    padding: 12px 24px;
+}
+#header{
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+}
+*{
+    padding: 0;
+    margin: 0%;
+}
+#slider img{
+    width: 100%;
+    margin-top: 42px;
+
+}
+.section_1 .WelcomeText{
+   position: absolute;
+   top: 28vw;
+   left: 2vw;
+   padding: 0px 200px 60px;
+   font-size: 10vw;
+   text-align: center;
+}
+#content .content-title{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    color: orange;
+}
+#content .content_text{
+   text-align: center;
+   margin-bottom: 32px;
+   color: orange
+   
+}
+
+ #content .the-halloween-img{
+    display: flex;
+    justify-content: space-around ;
+    margin: 32px 0;
+ }
+ p{
+    text-align: center;
+ }
+ .img_class{
+    width: -webkit-fill-available;
+ }
+ .the_halloween_container{
+    display: flex;
+    justify-content: space-around;
+ }
+ .the_halloween_item{
+    border: 2px solid;
+    width: 400px;
+ }
+ .the_halloween_item img{
+    border: 2px solid;
+    width: 400px;
+    height: 300px;
+ }
+ body{
+    background-color: black;
+ }
+ .h2_item{
+   color: orange;
+ }
+ *{
+   margin: 0;
+   padding: 0%;
+   box-sizing: border-box;
+}
+form{
+   background-color: black;
+   width: 600px;
+   margin: auto;
+   margin-top: 100px;
+}
+h1{
+   text-align: center;
+   padding: 50px;
+}
+.text-box{
+   background-color:black;
+   width: 450px;
+   margin: auto;
+   padding: 15px;
+}
+.text-box input {
+   width: 100%;
+   padding: 15px 0;
+   border: none;
+   border-bottom: 2px solid black;
+   font-size: 18px;
+   outline: none;    
+}
+button{
+   padding: 15px;
+   width: 150px;
+   border: none;
+}
+.button-box{
+   text-align: center;
+}
+.h1_item{
+   color: orange;
+}
+.a_class{
+   color: orange;
+}
+
+
